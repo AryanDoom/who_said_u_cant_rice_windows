@@ -1,4 +1,4 @@
-<img width="1918" height="1078" alt="Screenshot 2026-05-13 223126" src="https://github.com/user-attachments/assets/cc1c141f-4712-4c8e-b63a-e9efb9316a51" /># my windows rice
+# my windows rice
 
 this is my windows setup.
 
@@ -11,8 +11,6 @@ now we're here.
 
 <img width="1919" height="1079" alt="Screenshot 2026-08-15 163332" src="https://github.com/user-attachments/assets/1b93a3b7-bd3c-4886-9b1b-6a60d3397b5c" />
 <img width="1919" height="1079" alt="Screenshot 2026-08-29 193733" src="https://github.com/user-attachments/assets/d45524ef-7968-4335-aa3c-d1c406969903" />
-
-<img width="1919" height="1078" alt="Screenshot 2026-05-26 101235" src="https://github.com/user-attachments/assets/cea08760-bbf7-4f05-af2a-09f4621d2f33" />
 
 ---
 
