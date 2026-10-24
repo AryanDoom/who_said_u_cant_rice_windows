@@ -72,6 +72,14 @@ for the status bar / widgets and making the desktop look less empty.
 
 ---
 
+**bloom**
+
+found it recently (written in rust so thats nice) its mac-ish dynamic island (i get more of my screen back cuz it auto hides so thats a plus point)
+
+---
+
+
+
 ### browser
 
 **zen browser**
